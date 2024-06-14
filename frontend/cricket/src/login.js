@@ -12,6 +12,9 @@ const Login = () => {
             <br/><br/>
             <input type="submit"></input>
             <p>New to our app?<a href="register"> click here </a>to register </p>
+            <p>You can also sign in through</p>
+            <i class="fa-brands fa-google fa-xl"></i>
+            <br/>
         </div>
         </>
     );
