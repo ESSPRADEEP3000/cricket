@@ -1,0 +1,11 @@
+img{
+    max-width: 50px;
+    max-height: 50px;
+    display: inline-block;
+    margin-top:0.5%;
+    border-radius: 50%;
+    border:2px white solid;
+}
+h1{
+    display: inline;
+}

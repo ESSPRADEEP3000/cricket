@@ -13,7 +13,7 @@ const Login = () => {
             <input type="submit"></input>
             <p>New to our app?<a href="register"> click here </a>to register </p>
             <p>You can also sign in through</p>
-            <i class="fa-brands fa-google fa-xl"></i>
+            <a href='https://www.google.com/' target='\blank'><i className="fa-brands fa-google fa-xl"></i></a>
             <br/>
         </div>
         </>
